@@ -3,8 +3,8 @@
 > *Select One Of The Following Problems:*
 
 
-|Name| Description | # |
-|--- |--- |--- |
+|Name| Description |
+|--- |--- |
 |[Extremely Basic]()|*Read 2 variables, named A and B and make the sum of these two variables, assigning its result to the variable X. Print X as shown below. Print endline after the result otherwise you will get “Presentation Error”.*| `1001`|
 |[Area of a Circle]()|*The formula to calculate the area of a circumference is defined as A = π . R2. Considering to this problem that π = 3.14159: Calculate the area using the formula given in the problem description.*|`1002`|
 |[Simple Sum]()|*Read two integer values, in this case, the variables A and B. After this, calculate the sum between them and assign it to the variable SOMA. Write the value of this variable.*|`1003`|
