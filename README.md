@@ -1,1 +1,1 @@
-# beecrowd-challenges
+# Beecrowd `Beginner` Challenges
