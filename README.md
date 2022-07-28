@@ -1,4 +1,4 @@
-#  Beecrowd `Java` Challenges! 
+#  Beecrowd `Java` Challenges! :white_check_mark:
 > *Select One Of The 9 Big Categories Of Java Problems:*
 
 [1. BEGINNER](https://github.com/ojoseleonardo/beecrowd-java/tree/1-BEGINNER) <br />
@@ -13,10 +13,10 @@
 
 
 
-#  What Is Beecrowd?
+###  What Is Beecrowd?
 They are a global community of developers committed to keep evolving as students and professionals. Train algorithms and programming challenges and become the expert you always dreamed to be, *[Access](https://www.beecrowd.com.br/judge/en/categories)*. :pray:
 
-![image](https://user-images.githubusercontent.com/72801979/181376827-2f72c0cd-5c31-442d-87ec-d1b659938ea1.png)
+<!---![image](https://user-images.githubusercontent.com/72801979/181376827-2f72c0cd-5c31-442d-87ec-d1b659938ea1.png)--->
 
 
 
