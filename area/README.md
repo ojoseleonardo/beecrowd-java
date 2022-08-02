@@ -1,6 +1,4 @@
-# Beecrowd `Beginner` 10112ite_check_mark:
-
-### *Description*
+# Beecrowd `Beginner` Challenge! :arrow_heading_down:
 
 Make a program that reads three floating point values: A, B and C. Then, calculate and show: <br/>
 a) the area of the rectangled triangle that has base A and height C. <br/>
