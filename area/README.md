@@ -1,6 +1,6 @@
 # Beecrowd `Beginner` Challenge! :arrow_heading_down:
 
-### *Description*
+### *Description:*
 
 Make a program that reads three floating point values: A, B and C. Then, calculate and show: <br/>
 a) the area of the rectangled triangle that has base A and height C. <br/>
@@ -10,11 +10,11 @@ d) the area of the square that has side B. <br/>
 e) the area of the rectangle that has sides A and B. <br/>
 
 
-### *Input*
+### *Input:*
 
 The input file contains three double values with one digit after the decimal point.
 
-### *Output*
+### *Output:*
 
 The output file must contain 5 lines of data. Each line corresponds to one of the areas described above, always with a corresponding message (in Portuguese) and one space between the two points and the value. The value calculated must be presented with 3 digits after the decimal point.
 
