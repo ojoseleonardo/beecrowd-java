@@ -1,4 +1,4 @@
-# Beecrowd `Beginner` Challenges! :white_check_mark:
+# Beecrowd `Beginner` Challenges! :arrow_heading_down:
 
 > *Select One Of The Following Problems:*
 
