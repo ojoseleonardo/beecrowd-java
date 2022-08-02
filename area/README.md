@@ -1,5 +1,7 @@
 # Beecrowd `Beginner` Challenge! :arrow_heading_down:
 
+### *Description*
+
 Make a program that reads three floating point values: A, B and C. Then, calculate and show: <br/>
 a) the area of the rectangled triangle that has base A and height C. <br/>
 b) the area of the radius's circle C. (pi = 3.14159) <br/>
